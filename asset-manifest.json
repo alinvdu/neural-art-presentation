@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/neural-art-presentation/static/css/main.8eb37bf8.css",
+    "main.js": "/neural-art-presentation/static/js/main.5538c826.js",
+    "static/js/787.e2cf9ee5.chunk.js": "/neural-art-presentation/static/js/787.e2cf9ee5.chunk.js",
+    "static/media/background-blue.png": "/neural-art-presentation/static/media/background-blue.b3cc4d2fc9f2f43871a0.png",
+    "static/media/logo.png": "/neural-art-presentation/static/media/logo.d22697f5ca8dd9f37cd2.png",
+    "index.html": "/neural-art-presentation/index.html",
+    "main.8eb37bf8.css.map": "/neural-art-presentation/static/css/main.8eb37bf8.css.map",
+    "main.5538c826.js.map": "/neural-art-presentation/static/js/main.5538c826.js.map",
+    "787.e2cf9ee5.chunk.js.map": "/neural-art-presentation/static/js/787.e2cf9ee5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eb37bf8.css",
+    "static/js/main.5538c826.js"
+  ]
+}
